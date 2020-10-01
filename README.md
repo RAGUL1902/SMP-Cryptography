@@ -1,2 +1,2 @@
 # SMP-Cryptography
-assignments and projects of this smp
+  This repo contains Assignments and Projects of this smp
